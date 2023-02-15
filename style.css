@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+#logo{
+    display: inline-block;
+}
+#search{
+    display: inline-block;
+}
+ul li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 15px;
+    
+}
+header{
+    border-style: solid;
+    border-color: #EEEEEE;
+    height: 74px;
+    position: relative ;
+}
+.button{
+    width: 40px;
+    height:40px;
+    border-color: #EEEEEE;
+    background-color: #FFFFFF;
+    
+}
